@@ -5,3 +5,6 @@ bin/
 
 # Salidas de pruebas del modo batch
 Ecosystem/resources/tmp/
+
+# Ejecutable: se publica en GitHub Releases
+eco.jar

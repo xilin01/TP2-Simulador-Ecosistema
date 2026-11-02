@@ -53,11 +53,11 @@ Simulador de un ecosistema de **ovejas y lobos** desarrollado en **Java 21** con
 
 Requisitos: **Java 21** o superior.
 
-`eco.jar` ya incluye las dependencias:
+Descarga [`eco.jar`](https://github.com/xilin01/Simulador-ecosistema/releases/latest/download/eco.jar) (incluye las dependencias) desde la [última release](https://github.com/xilin01/Simulador-ecosistema/releases/latest) y cópialo en la raíz del repositorio, ya que los ejemplos usan rutas de `Ecosystem/resources/`:
 
 ```bash
-git clone https://github.com/xilin01/TP2-Simulador-Ecosistema.git
-cd TP2-Simulador-Ecosistema
+git clone https://github.com/xilin01/Simulador-ecosistema.git
+cd Simulador-ecosistema
 
 # Modo gráfico
 java -jar eco.jar
@@ -117,7 +117,6 @@ Ecosystem/
 │   └── misc/        Vector2D y utilidades
 ├── resources/       Escenarios JSON de ejemplo e iconos
 └── lib/             Dependencias
-eco.jar              Ejecutable con las dependencias incluidas
 ```
 
 ---
